@@ -5,22 +5,22 @@
         "items": [
             {
                 "name": "Home",
-                "path": "/icons/home.svg#icon",
+                "path": "icons/home.svg#icon",
                 "tags": "home,beranda"
             },
             {
                 "name": "Paper",
-                "path": "/icons/news.svg#icon",
+                "path": "icons/news.svg#icon",
                 "tags": "news,paper"
             },
             {
                 "name": "Plan",
-                "path": "/icons/plan.svg#icon",
+                "path": "icons/plan.svg#icon",
                 "tags": "news,paper"
             },
             {
                 "name": "Account",
-                "path": "/icons/account.svg#icon",
+                "path": "icons/account.svg#icon",
                 "tags": "news,paper"
             }
         ]
