@@ -1,5 +1,5 @@
 
-fetch('/icons.map.json').then(res => res.json()).then(res => {
+fetch('https://raw.githubusercontent.com/insideofcode/icons-pack/main/icons.map.json').then(res => res.json()).then(res => {
 
     let html = '';
 
