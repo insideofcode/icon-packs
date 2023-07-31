@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Ini Group",
+        "description": "Ini adalah deskripsi dari group",
+        "items": [
+            {
+                "name": "Home",
+                "path": "/icons/home.svg#icon",
+                "tags": "home,beranda"
+            },
+            {
+                "name": "Paper",
+                "path": "/icons/news.svg#icon",
+                "tags": "news,paper"
+            },
+            {
+                "name": "Plan",
+                "path": "/icons/plan.svg#icon",
+                "tags": "news,paper"
+            },
+            {
+                "name": "Account",
+                "path": "/icons/account.svg#icon",
+                "tags": "news,paper"
+            }
+        ]
+    }
+]
